@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    printf("raj\n");
+    printf("kunal\n");
+    printf("sheetal\n");
+    printf("khushi\n");
+    printf("manish\n");
+    return 0;
+}

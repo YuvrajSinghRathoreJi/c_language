@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+    
+    printf("DAL BATI CHURMA\n");
+    printf("KACHORI\n");
+    printf("Papad ro Saag\n");
+    printf("Ker Sangri\n");
+    printf("Ghevar\n");
+    return 0;
+}

@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+    
+    printf("ramesh\n");
+    printf("bharti\n");
+    printf("vaishnavi\n");
+    printf("kanishk\n");
+    printf("yuvraj\n");
+    return 0;
+}
+

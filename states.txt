@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+    printf("Andhra Pradesh\n");
+    printf("Rajasthan\n");
+    printf("Gujarat\n");
+    printf("Bihar\n");
+    printf("Goa\n");
+    printf("Assam\n");
+    return 0;
+    
+    
+}

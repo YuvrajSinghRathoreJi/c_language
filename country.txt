@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+    printf("Austria\n");
+    printf("india\n");
+    printf("Armenia\n");
+    printf("Russia\n");
+    printf("Argentina\n");
+    return 0;
+    
+}

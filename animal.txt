@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+    
+    printf("dog\n");
+    printf("cat\n");
+    printf("rabit\n");
+    printf("lion\n");
+    printf("tiger\n");
+    return 0;
+}
+

@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+    
+    printf("jaipur\n");
+    printf("churu\n");
+    printf("ajmer\n");
+    printf("siker\n");
+    printf("bikaner\n");
+    return 0;
+}
